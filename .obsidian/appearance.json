@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "cssTheme": "Obsidian Nord",
+  "showViewHeader": true,
+  "textFontFamily": "Monaco",
+  "interfaceFontFamily": "Andale Mono",
+  "monospaceFontFamily": "Monaco"
+}
